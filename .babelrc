@@ -1,0 +1,6 @@
+//This is a JSON file
+
+{
+ "presets": ["@babel/preset-react"],
+ "plugins": ["transform-class-properties"]
+}
